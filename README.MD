@@ -9,7 +9,7 @@ Crie um arquivo notebook contendo o código (preferencialmente em Python e com c
 
 O texto de discussão completo pode ser visualizado [aqui](https://github.com/deborabastos/hacker_fiscalizacao/blob/main/debora_bastos_hacker_fiscalizaca_congresso_nacional.pdf).
 
-A seguir, no entando, destaco os principais achados da análise:
+A seguir, destaco os principais achados da análise:
 
 - em todos os anos, homens brancos apresentaram salário médio maior que as demais categorias, seguido por mulheres brancas, homens negros e, por último, mulheres negras.
 
