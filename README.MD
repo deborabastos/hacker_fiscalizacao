@@ -3,6 +3,8 @@
 ### Problema:
 Crie um arquivo notebook contendo o código (preferencialmente em Python e com comentários) e uma discussão em texto que respondam ao enunciado abaixo.
 
+Canditada: Débora Alves Pereira Bastos (CPF: 009.129.431-22)
+
 "Baseado na tabela em CSV com a série histórica 'Remuneração líquida média mensal no Executivo civil federal ativo, por sexo e raça (1999-2020)', disponível no site do Atlas do Estado Brasileiro (IPEA), comente uma ou duas tendências da evolução da remuneração destes servidores de acordo com seu sexo e/ou raça."
 
 Resumo dos achados:
