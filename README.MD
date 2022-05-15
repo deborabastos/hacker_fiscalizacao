@@ -11,6 +11,9 @@ O texto de discussão completo pode ser visualizado [aqui](https://github.com/de
 
 A seguir, destaco os principais achados da análise:
 
+![Alt text](https://github.com/deborabastos/hacker_fiscalizacao/blob/main/output/grafico1.png)
+
+
 - em todos os anos, homens brancos apresentaram salário médio maior que as demais categorias, seguido por mulheres brancas, homens negros e, por último, mulheres negras.
 
 - todas as categorias de servidores públicos civis federais ativos tiveram aumento real em seu salarial médio entre 1999 e 2020.
