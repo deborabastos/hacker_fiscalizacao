@@ -30,7 +30,7 @@ A seguir, destaco os principais achados da análise:
 
 <details>
 <summary><ins>Notas de reprodutibilidade</ins></summary>
-<p>Para reproduzir corretamente o projeto, é necessário instalar os requisitos disponíveis no arquivo requirements.txt utilizando o comando:</p>
+<p>Para reproduzir corretamente o projeto, é necessário instalar os requisitos disponíveis no arquivo requirements.txt. Sugere-se, para tanto, utilizar o comando:</p>
 <code>
 pip install -r requirements.txt
 </code>
