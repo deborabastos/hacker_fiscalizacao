@@ -26,3 +26,12 @@ A seguir, destaco os principais achados da análise:
 - a mulher branca apenas alcançou o salário do homem branco de 1999 em 2009, ou seja, 10 anos após o salário índice considerado;
 
 - a disparidade salarial caiu, ainda que lentamente, para mulheres brancas e mulheres negras. Para homens negros, ela aumentou.
+
+
+<details>
+<summary><ins>Notas de reprodutibilidade</ins></summary>
+<p><ins>Para reproduzir corretamente o projeto, é necessário instalar os requisitos disponíveis no arquivo requirements.txt</ins></p>
+```
+pip install -r requirements.txt
+```
+</details>
