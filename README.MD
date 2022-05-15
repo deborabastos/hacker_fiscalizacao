@@ -9,6 +9,8 @@ Resumo dos achados:
 
 - em todos os anos, homens brancos apresentaram salário médio maior que as demais categorias, seguido por mulheres brancas, homens negros e, por último, mulheres negras.
 
+- todas as categorias de servidores públicos civis federais ativos tiveram aumento real em seu salarial médio entre 1999 e 2020.
+
 - o salário médio de todas as categorias se comportou de maneira similar, isto é, certa estabilidade entre 1999 e 2006, crescimento entre 2006 e 2011, e nova estabilidade entre 2011 e 2020.
 
 - o salário médio da mulher negra, em nenhum dos 21 anos pesquisados, chegou ao valor percebido, em média, pelo homem branco de 1999.
