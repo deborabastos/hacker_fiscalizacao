@@ -13,16 +13,16 @@ A seguir, destaco os principais achados da análise:
 
 ![Alt text](https://github.com/deborabastos/hacker_fiscalizacao/blob/main/output/grafico1.png)
 
-- em todos os anos, homens brancos apresentaram salário médio maior que as demais categorias, seguido por mulheres brancas, homens negros e, por último, mulheres negras.
+- em todos os anos, homens brancos apresentaram salário médio maior que as demais categorias, seguido por mulheres brancas, homens negros e, por último, mulheres negras;
 
-- todas as categorias de servidores públicos civis federais ativos tiveram aumento real em seu salarial médio entre 1999 e 2020.
+- todas as categorias de servidores públicos civis federais ativos tiveram aumento real em seu salarial médio entre 1999 e 2020;
 
-- o salário médio de todas as categorias se comportou de maneira similar, isto é, certa estabilidade entre 1999 e 2006, crescimento entre 2006 e 2011, e nova estabilidade entre 2011 e 2020.
+- o salário médio de todas as categorias se comportou de maneira similar, isto é, certa estabilidade entre 1999 e 2006, crescimento entre 2006 e 2011, e nova estabilidade entre 2011 e 2020;
 
-- o salário médio da mulher negra, em nenhum dos 21 anos pesquisados, chegou ao valor percebido, em média, pelo homem branco de 1999.
+- o salário médio da mulher negra, em nenhum dos 21 anos pesquisados, chegou ao valor percebido, em média, pelo homem branco de 1999;
 
-- a categoria homem negro apenas em 2014 e 2017 atingiu o patamar salarial do homem branco de 1999. 
+- a categoria homem negro apenas em 2014 e 2017 atingiu o patamar salarial do homem branco de 1999;
 
-- a mulher branca apenas alcançou o salário do homem branco de 1999 em 2009, ou seja, 10 anos após o salário índice considerado.
+- a mulher branca apenas alcançou o salário do homem branco de 1999 em 2009, ou seja, 10 anos após o salário índice considerado;
 
-- disparidade salarial caiu, ainda que lentamente, para mulheres brancas e mulheres negras. Para homens negros, ela aumentou
+- a disparidade salarial caiu, ainda que lentamente, para mulheres brancas e mulheres negras. Para homens negros, ela aumentou.
