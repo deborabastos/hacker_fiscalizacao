@@ -5,9 +5,7 @@ Crie um arquivo notebook contendo o código (preferencialmente em Python e com c
 
 "Baseado na tabela em CSV com a série histórica 'Remuneração líquida média mensal no Executivo civil federal ativo, por sexo e raça (1999-2020)', disponível no site do Atlas do Estado Brasileiro (IPEA), comente uma ou duas tendências da evolução da remuneração destes servidores de acordo com seu sexo e/ou raça."
 
-A partir da análise dos dados 
-
-
+Resumo dos achados:
 
 - em todos os anos, homens brancos apresentaram salário médio maior que as demais categorias, seguido por mulheres brancas, homens negros e, por último, mulheres negras.
 
