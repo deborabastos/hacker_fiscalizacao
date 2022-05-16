@@ -6,7 +6,7 @@ Crie um arquivo notebook contendo o código (preferencialmente em Python e com c
 
 "Baseado na tabela em CSV com a série histórica 'Remuneração líquida média mensal no Executivo civil federal ativo, por sexo e raça (1999-2020)', disponível no site do Atlas do Estado Brasileiro (IPEA), comente uma ou duas tendências da evolução da remuneração destes servidores de acordo com seu sexo e/ou raça."
 
-O texto de discussão completo pode ser visualizado [aqui](https://github.com/deborabastos/hacker_fiscalizacao/blob/main/debora_bastos_hacker_fiscalizaca_congresso_nacional.pdf).
+O texto de discussão completo pode ser visualizado [aqui](https://github.com/deborabastos/hacker_fiscalizacao/blob/main/debora_bastos_hacker_fiscalizaca_congresso_nacional_parte_1.pdf).
 
 A seguir, destaco os principais achados da análise:
 
